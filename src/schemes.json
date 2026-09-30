@@ -1,0 +1,443 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": {
+      "en": "PM-KISAN Samman Nidhi",
+      "gu": "પીએમ-કિસાન સન્માન નિધિ",
+      "hi": "पीएम-किसान सम्मान निधि",
+      "pa": "ਪੀਐਮ-ਕਿਸਾਨ ਸਨਮਾਨ ਨਿਧੀ"
+    },
+    "benefit": {
+      "en": "Rs 6,000 per year, paid in 3 instalments straight to your bank account",
+      "gu": "દર વર્ષે ₹6,000, ત્રણ હપ્તામાં સીધા બેંક ખાતામાં",
+      "hi": "हर साल ₹6,000, तीन किस्तों में सीधे बैंक खाते में",
+      "pa": "ਹਰ ਸਾਲ ₹6,000, ਤਿੰਨ ਕਿਸ਼ਤਾਂ ਵਿੱਚ ਸਿੱਧਾ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ"
+    },
+    "eligibility": {
+      "needsLand": true
+    },
+    "note": {
+      "en": "Not for income-tax payers, government employees or pensioners, and professionals like doctors or lawyers.",
+      "gu": "આવકવેરો ભરનાર, સરકારી કર્મચારી/પેન્શનર અને ડૉક્ટર-વકીલ જેવા વ્યવસાયિકો માટે નથી.",
+      "hi": "आयकर दाता, सरकारी कर्मचारी या पेंशनर, और डॉक्टर-वकील जैसे पेशेवरों के लिए नहीं।",
+      "pa": "ਆਮਦਨ ਕਰ ਦੇਣ ਵਾਲਿਆਂ, ਸਰਕਾਰੀ ਮੁਲਾਜ਼ਮਾਂ ਜਾਂ ਪੈਨਸ਼ਨਰਾਂ, ਅਤੇ ਡਾਕਟਰ-ਵਕੀਲ ਵਰਗੇ ਪੇਸ਼ੇਵਰਾਂ ਲਈ ਨਹੀਂ।"
+    },
+    "documents": [
+      {
+        "en": "Aadhaar card",
+        "gu": "આધાર કાર્ડ",
+        "hi": "आधार कार्ड",
+        "pa": "ਆਧਾਰ ਕਾਰਡ"
+      },
+      {
+        "en": "Bank account linked with Aadhaar",
+        "gu": "આધાર સાથે જોડાયેલું બેંક ખાતું",
+        "hi": "आधार से जुड़ा बैंक खाता",
+        "pa": "ਆਧਾਰ ਨਾਲ ਜੁੜਿਆ ਬੈਂਕ ਖਾਤਾ"
+      },
+      {
+        "en": "Land records (7/12 and 8-A)",
+        "gu": "જમીનના દસ્તાવેજ (7/12 અને 8-અ)",
+        "hi": "ज़मीन के दस्तावेज़ (7/12 और 8-अ)",
+        "pa": "ਜ਼ਮੀਨ ਦੇ ਦਸਤਾਵੇਜ਼ (7/12 ਅਤੇ 8-ਅ)"
+      },
+      {
+        "en": "Mobile number for OTP",
+        "gu": "OTP માટે મોબાઇલ નંબર",
+        "hi": "OTP के लिए मोबाइल नंबर",
+        "pa": "OTP ਲਈ ਮੋਬਾਈਲ ਨੰਬਰ"
+      }
+    ],
+    "steps": [
+      {
+        "en": "Open pmkisan.gov.in or go to your nearest CSC.",
+        "gu": "pmkisan.gov.in ખોલો અથવા નજીકના CSC પર જાઓ.",
+        "hi": "pmkisan.gov.in खोलें या नज़दीकी CSC पर जाएँ।",
+        "pa": "pmkisan.gov.in ਖੋਲ੍ਹੋ ਜਾਂ ਨੇੜਲੇ CSC 'ਤੇ ਜਾਓ।"
+      },
+      {
+        "en": "Choose 'New Farmer Registration', enter Aadhaar and verify with OTP.",
+        "gu": "'New Farmer Registration' પસંદ કરો, આધાર નંબર નાખી OTP થી ચકાસો.",
+        "hi": "'New Farmer Registration' चुनें, आधार नंबर डालकर OTP से सत्यापित करें।",
+        "pa": "'New Farmer Registration' ਚੁਣੋ, ਆਧਾਰ ਨੰਬਰ ਪਾ ਕੇ OTP ਨਾਲ ਪੁਸ਼ਟੀ ਕਰੋ।"
+      },
+      {
+        "en": "Fill state, district, bank and land details.",
+        "gu": "રાજ્ય, જિલ્લો, બેંક અને જમીનની વિગતો ભરો.",
+        "hi": "राज्य, ज़िला, बैंक और ज़मीन की जानकारी भरें।",
+        "pa": "ਰਾਜ, ਜ਼ਿਲ੍ਹਾ, ਬੈਂਕ ਅਤੇ ਜ਼ਮੀਨ ਦੀ ਜਾਣਕਾਰੀ ਭਰੋ।"
+      },
+      {
+        "en": "Complete e-KYC (Aadhaar OTP online, or fingerprint at CSC).",
+        "gu": "e-KYC પૂરું કરો (ઓનલાઇન આધાર OTP, અથવા CSC પર ફિંગરપ્રિન્ટ).",
+        "hi": "e-KYC पूरा करें (ऑनलाइन आधार OTP, या CSC पर फिंगरप्रिंट)।",
+        "pa": "e-KYC ਪੂਰਾ ਕਰੋ (ਆਨਲਾਈਨ ਆਧਾਰ OTP, ਜਾਂ CSC 'ਤੇ ਫਿੰਗਰਪ੍ਰਿੰਟ)।"
+      },
+      {
+        "en": "Submit and keep your registration number safe.",
+        "gu": "અરજી સબમિટ કરો અને નોંધણી નંબર સાચવી રાખો.",
+        "hi": "सबमिट करें और अपना पंजीकरण नंबर सुरक्षित रखें।",
+        "pa": "ਸਬਮਿਟ ਕਰੋ ਅਤੇ ਆਪਣਾ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਨੰਬਰ ਸੰਭਾਲ ਕੇ ਰੱਖੋ।"
+      }
+    ],
+    "where": {
+      "en": "Online or at a CSC / Gram Panchayat",
+      "gu": "ઓનલાઇન અથવા CSC / ગ્રામ પંચાયત પર",
+      "hi": "ऑनलाइन या CSC / ग्राम पंचायत में",
+      "pa": "ਆਨਲਾਈਨ ਜਾਂ CSC / ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਵਿੱਚ"
+    },
+    "applyUrl": "https://pmkisan.gov.in",
+    "helpline": "155261",
+    "source": "https://www.myscheme.gov.in/schemes/pm-kisan",
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "pmjay-ma",
+    "name": {
+      "en": "Ayushman Bharat PM-JAY / MA Yojana",
+      "gu": "આયુષ્માન ભારત PM-JAY / મા યોજના",
+      "hi": "आयुष्मान भारत PM-JAY / मा योजना",
+      "pa": "ਆਯੂਸ਼ਮਾਨ ਭਾਰਤ PM-JAY / ਮਾਂ ਯੋਜਨਾ"
+    },
+    "benefit": {
+      "en": "Cashless hospital treatment up to Rs 5 lakh per family per year",
+      "gu": "કુટુંબ દીઠ દર વર્ષે ₹5 લાખ સુધીની હૉસ્પિટલની સારવાર, રોકડ વગર",
+      "hi": "परिवार को हर साल ₹5 लाख तक का कैशलेस अस्पताल इलाज",
+      "pa": "ਪਰਿਵਾਰ ਨੂੰ ਹਰ ਸਾਲ ₹5 ਲੱਖ ਤੱਕ ਦਾ ਕੈਸ਼ਲੈੱਸ ਹਸਪਤਾਲ ਇਲਾਜ"
+    },
+    "eligibility": {
+      "maxIncome": 400000
+    },
+    "note": {
+      "en": "Final eligibility is checked on the official site. Please confirm before applying.",
+      "gu": "અંતિમ પાત્રતા સત્તાવાર સાઇટ પર તપાસાય છે. અરજી પહેલાં ખાતરી કરો.",
+      "hi": "अंतिम पात्रता आधिकारिक साइट पर जाँची जाती है। आवेदन से पहले पुष्टि करें।",
+      "pa": "ਅੰਤਿਮ ਯੋਗਤਾ ਅਧਿਕਾਰਤ ਸਾਈਟ 'ਤੇ ਜਾਂਚੀ ਜਾਂਦੀ ਹੈ। ਅਰਜ਼ੀ ਤੋਂ ਪਹਿਲਾਂ ਪੁਸ਼ਟੀ ਕਰੋ।"
+    },
+    "documents": [
+      {
+        "en": "Aadhaar card",
+        "gu": "આધાર કાર્ડ",
+        "hi": "आधार कार्ड",
+        "pa": "ਆਧਾਰ ਕਾਰਡ"
+      },
+      {
+        "en": "Ration card",
+        "gu": "રેશન કાર્ડ",
+        "hi": "राशन कार्ड",
+        "pa": "ਰਾਸ਼ਨ ਕਾਰਡ"
+      },
+      {
+        "en": "Income certificate (if asked)",
+        "gu": "આવકનો દાખલો (માંગે તો)",
+        "hi": "आय प्रमाण पत्र (माँगे तो)",
+        "pa": "ਆਮਦਨ ਸਰਟੀਫਿਕੇਟ (ਮੰਗਣ 'ਤੇ)"
+      },
+      {
+        "en": "Mobile number",
+        "gu": "મોબાઇલ નંબર",
+        "hi": "मोबाइल नंबर",
+        "pa": "ਮੋਬਾਈਲ ਨੰਬਰ"
+      }
+    ],
+    "steps": [
+      {
+        "en": "Check your family name at mera.pmjay.gov.in or call 14555.",
+        "gu": "mera.pmjay.gov.in પર કુટુંબનું નામ તપાસો અથવા 14555 પર ફોન કરો.",
+        "hi": "mera.pmjay.gov.in पर परिवार का नाम जाँचें या 14555 पर फ़ोन करें।",
+        "pa": "mera.pmjay.gov.in 'ਤੇ ਪਰਿਵਾਰ ਦਾ ਨਾਮ ਜਾਂਚੋ ਜਾਂ 14555 'ਤੇ ਫ਼ੋਨ ਕਰੋ।"
+      },
+      {
+        "en": "Go to a CSC, Ayushman Mitra at a listed hospital, or the taluka health office.",
+        "gu": "CSC, યાદીવાળી હૉસ્પિટલના આયુષ્માન મિત્ર કે તાલુકા આરોગ્ય કચેરીએ જાઓ.",
+        "hi": "CSC, सूचीबद्ध अस्पताल के आयुष्मान मित्र या तालुका स्वास्थ्य कार्यालय जाएँ।",
+        "pa": "CSC, ਸੂਚੀਬੱਧ ਹਸਪਤਾਲ ਦੇ ਆਯੂਸ਼ਮਾਨ ਮਿੱਤਰ ਜਾਂ ਤਾਲੁਕਾ ਸਿਹਤ ਦਫ਼ਤਰ ਜਾਓ।"
+      },
+      {
+        "en": "Take your documents and finish e-KYC.",
+        "gu": "દસ્તાવેજો સાથે લઈ જાઓ અને e-KYC પૂરું કરો.",
+        "hi": "दस्तावेज़ साथ ले जाएँ और e-KYC पूरा करें।",
+        "pa": "ਦਸਤਾਵੇਜ਼ ਨਾਲ ਲੈ ਜਾਓ ਅਤੇ e-KYC ਪੂਰਾ ਕਰੋ।"
+      },
+      {
+        "en": "Collect your Ayushman card.",
+        "gu": "તમારું આયુષ્માન કાર્ડ મેળવો.",
+        "hi": "अपना आयुष्मान कार्ड प्राप्त करें।",
+        "pa": "ਆਪਣਾ ਆਯੂਸ਼ਮਾਨ ਕਾਰਡ ਲਓ।"
+      }
+    ],
+    "where": {
+      "en": "CSC or hospital Ayushman Mitra desk",
+      "gu": "CSC અથવા હૉસ્પિટલનું આયુષ્માન મિત્ર કાઉન્ટર",
+      "hi": "CSC या अस्पताल का आयुष्मान मित्र काउंटर",
+      "pa": "CSC ਜਾਂ ਹਸਪਤਾਲ ਦਾ ਆਯੂਸ਼ਮਾਨ ਮਿੱਤਰ ਕਾਊਂਟਰ"
+    },
+    "applyUrl": "https://beneficiary.nha.gov.in",
+    "helpline": "14555",
+    "source": "https://www.myscheme.gov.in/schemes/ab-pmjay",
+    "lastVerified": ""
+  },
+  {
+    "id": "pmay-g",
+    "name": {
+      "en": "PM Awas Yojana - Gramin",
+      "gu": "પ્રધાનમંત્રી આવાસ યોજના - ગ્રામીણ",
+      "hi": "प्रधानमंत्री आवास योजना - ग्रामीण",
+      "pa": "ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਆਵਾਸ ਯੋਜਨਾ - ਗ੍ਰਾਮੀਣ"
+    },
+    "benefit": {
+      "en": "Financial help to build a pucca house in a village",
+      "gu": "ગામમાં પાકું મકાન બાંધવા માટે નાણાકીય સહાય",
+      "hi": "गाँव में पक्का मकान बनाने के लिए आर्थिक मदद",
+      "pa": "ਪਿੰਡ ਵਿੱਚ ਪੱਕਾ ਮਕਾਨ ਬਣਾਉਣ ਲਈ ਆਰਥਿਕ ਮਦਦ"
+    },
+    "eligibility": {
+      "noPuccaHouse": true,
+      "maxIncome": 120000
+    },
+    "note": {
+      "en": "Selection is from an official survey list. Check if your name is on the list.",
+      "gu": "પસંદગી સત્તાવાર સર્વે યાદીમાંથી થાય છે. તમારું નામ યાદીમાં છે કે નહીં તે તપાસો.",
+      "hi": "चयन आधिकारिक सर्वे सूची से होता है। जाँचें कि आपका नाम सूची में है या नहीं।",
+      "pa": "ਚੋਣ ਅਧਿਕਾਰਤ ਸਰਵੇ ਸੂਚੀ ਵਿੱਚੋਂ ਹੁੰਦੀ ਹੈ। ਜਾਂਚੋ ਕਿ ਤੁਹਾਡਾ ਨਾਮ ਸੂਚੀ ਵਿੱਚ ਹੈ ਜਾਂ ਨਹੀਂ।"
+    },
+    "documents": [
+      {
+        "en": "Aadhaar card",
+        "gu": "આધાર કાર્ડ",
+        "hi": "आधार कार्ड",
+        "pa": "ਆਧਾਰ ਕਾਰਡ"
+      },
+      {
+        "en": "Bank passbook",
+        "gu": "બેંક પાસબુક",
+        "hi": "बैंक पासबुक",
+        "pa": "ਬੈਂਕ ਪਾਸਬੁੱਕ"
+      },
+      {
+        "en": "MGNREGA job card (if you have one)",
+        "gu": "મનરેગા જૉબ કાર્ડ (હોય તો)",
+        "hi": "मनरेगा जॉब कार्ड (हो तो)",
+        "pa": "ਮਨਰੇਗਾ ਜੌਬ ਕਾਰਡ (ਹੋਵੇ ਤਾਂ)"
+      },
+      {
+        "en": "Passport size photo",
+        "gu": "પાસપોર્ટ સાઇઝ ફોટો",
+        "hi": "पासपोर्ट साइज़ फोटो",
+        "pa": "ਪਾਸਪੋਰਟ ਸਾਈਜ਼ ਫੋਟੋ"
+      }
+    ],
+    "steps": [
+      {
+        "en": "Ask the Gram Panchayat if your name is on the Awaas+ / SECC list.",
+        "gu": "ગ્રામ પંચાયતમાં પૂછો કે તમારું નામ આવાસ+ / SECC યાદીમાં છે કે નહીં.",
+        "hi": "ग्राम पंचायत में पूछें कि आपका नाम आवास+ / SECC सूची में है या नहीं।",
+        "pa": "ਗ੍ਰਾਮ ਪੰਚਾਇਤ ਤੋਂ ਪੁੱਛੋ ਕਿ ਤੁਹਾਡਾ ਨਾਮ ਆਵਾਸ+ / SECC ਸੂਚੀ ਵਿੱਚ ਹੈ ਜਾਂ ਨਹੀਂ।"
+      },
+      {
+        "en": "If listed, meet the Gram Sevak or Taluka Development Office with your documents.",
+        "gu": "નામ હોય તો દસ્તાવેજો સાથે ગ્રામ સેવક અથવા તાલુકા વિકાસ કચેરીને મળો.",
+        "hi": "नाम हो तो दस्तावेज़ों के साथ ग्राम सेवक या तालुका विकास कार्यालय से मिलें।",
+        "pa": "ਨਾਮ ਹੋਵੇ ਤਾਂ ਦਸਤਾਵੇਜ਼ਾਂ ਸਮੇਤ ਗ੍ਰਾਮ ਸੇਵਕ ਜਾਂ ਤਾਲੁਕਾ ਵਿਕਾਸ ਦਫ਼ਤਰ ਨੂੰ ਮਿਲੋ।"
+      },
+      {
+        "en": "After sanction, build in stages; photos are taken at each stage.",
+        "gu": "મંજૂરી પછી તબક્કાવાર બાંધકામ કરો; દરેક તબક્કે ફોટા લેવાય છે.",
+        "hi": "मंज़ूरी के बाद चरणों में निर्माण करें; हर चरण पर फ़ोटो ली जाती है।",
+        "pa": "ਮਨਜ਼ੂਰੀ ਤੋਂ ਬਾਅਦ ਪੜਾਵਾਂ ਵਿੱਚ ਉਸਾਰੀ ਕਰੋ; ਹਰ ਪੜਾਅ 'ਤੇ ਫ਼ੋਟੋ ਲਈ ਜਾਂਦੀ ਹੈ।"
+      },
+      {
+        "en": "Money comes into your bank account after each stage.",
+        "gu": "દરેક તબક્કા પછી પૈસા બેંક ખાતામાં જમા થાય છે.",
+        "hi": "हर चरण के बाद पैसे बैंक खाते में जमा होते हैं।",
+        "pa": "ਹਰ ਪੜਾਅ ਤੋਂ ਬਾਅਦ ਪੈਸੇ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ ਜਮ੍ਹਾਂ ਹੁੰਦੇ ਹਨ।"
+      }
+    ],
+    "where": {
+      "en": "Gram Panchayat / Taluka Development Office",
+      "gu": "ગ્રામ પંચાયત / તાલુકા વિકાસ કચેરી",
+      "hi": "ग्राम पंचायत / तालुका विकास कार्यालय",
+      "pa": "ਗ੍ਰਾਮ ਪੰਚਾਇਤ / ਤਾਲੁਕਾ ਵਿਕਾਸ ਦਫ਼ਤਰ"
+    },
+    "applyUrl": "https://pmayg.nic.in",
+    "helpline": "1800-11-6446",
+    "source": "https://www.myscheme.gov.in/schemes/pmay-g",
+    "lastVerified": ""
+  },
+  {
+    "id": "e-shram",
+    "name": {
+      "en": "e-Shram Card",
+      "gu": "ઈ-શ્રમ કાર્ડ",
+      "hi": "ई-श्रम कार्ड",
+      "pa": "ਈ-ਸ਼੍ਰਮ ਕਾਰਡ"
+    },
+    "benefit": {
+      "en": "Free e-Shram card with Rs 2 lakh accident insurance for unorganised workers",
+      "gu": "અસંગઠિત કામદારો માટે મફત ઈ-શ્રમ કાર્ડ અને ₹2 લાખનો અકસ્માત વીમો",
+      "hi": "असंगठित मज़दूरों के लिए मुफ़्त ई-श्रम कार्ड और ₹2 लाख का दुर्घटना बीमा",
+      "pa": "ਅਸੰਗਠਿਤ ਮਜ਼ਦੂਰਾਂ ਲਈ ਮੁਫ਼ਤ ਈ-ਸ਼੍ਰਮ ਕਾਰਡ ਅਤੇ ₹2 ਲੱਖ ਦਾ ਹਾਦਸਾ ਬੀਮਾ"
+    },
+    "eligibility": {
+      "minAge": 16,
+      "maxAge": 59,
+      "occupations": [
+        "labourer",
+        "other"
+      ]
+    },
+    "note": {
+      "en": "Not for EPFO/ESIC members or income-tax payers.",
+      "gu": "EPFO/ESIC સભ્યો અને આવકવેરો ભરનાર માટે નથી.",
+      "hi": "EPFO/ESIC सदस्यों और आयकर दाताओं के लिए नहीं।",
+      "pa": "EPFO/ESIC ਮੈਂਬਰਾਂ ਅਤੇ ਆਮਦਨ ਕਰ ਦੇਣ ਵਾਲਿਆਂ ਲਈ ਨਹੀਂ।"
+    },
+    "documents": [
+      {
+        "en": "Aadhaar card",
+        "gu": "આધાર કાર્ડ",
+        "hi": "आधार कार्ड",
+        "pa": "ਆਧਾਰ ਕਾਰਡ"
+      },
+      {
+        "en": "Mobile number linked with Aadhaar",
+        "gu": "આધાર સાથે જોડાયેલો મોબાઇલ નંબર",
+        "hi": "आधार से जुड़ा मोबाइल नंबर",
+        "pa": "ਆਧਾਰ ਨਾਲ ਜੁੜਿਆ ਮੋਬਾਈਲ ਨੰਬਰ"
+      },
+      {
+        "en": "Bank account details",
+        "gu": "બેંક ખાતાની વિગતો",
+        "hi": "बैंक खाते की जानकारी",
+        "pa": "ਬੈਂਕ ਖਾਤੇ ਦੀ ਜਾਣਕਾਰੀ"
+      }
+    ],
+    "steps": [
+      {
+        "en": "Open eshram.gov.in and choose 'Register on e-Shram', or go to a CSC.",
+        "gu": "eshram.gov.in ખોલી 'Register on e-Shram' પસંદ કરો, અથવા CSC પર જાઓ.",
+        "hi": "eshram.gov.in खोलकर 'Register on e-Shram' चुनें, या CSC पर जाएँ।",
+        "pa": "eshram.gov.in ਖੋਲ੍ਹ ਕੇ 'Register on e-Shram' ਚੁਣੋ, ਜਾਂ CSC 'ਤੇ ਜਾਓ।"
+      },
+      {
+        "en": "Enter Aadhaar-linked mobile number and verify OTP.",
+        "gu": "આધાર સાથે જોડાયેલ મોબાઇલ નંબર નાખી OTP ચકાસો.",
+        "hi": "आधार से जुड़ा मोबाइल नंबर डालें और OTP सत्यापित करें।",
+        "pa": "ਆਧਾਰ ਨਾਲ ਜੁੜਿਆ ਮੋਬਾਈਲ ਨੰਬਰ ਪਾਓ ਅਤੇ OTP ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।"
+      },
+      {
+        "en": "Fill your work, address and bank details.",
+        "gu": "તમારું કામ, સરનામું અને બેંકની વિગતો ભરો.",
+        "hi": "अपना काम, पता और बैंक की जानकारी भरें।",
+        "pa": "ਆਪਣਾ ਕੰਮ, ਪਤਾ ਅਤੇ ਬੈਂਕ ਦੀ ਜਾਣਕਾਰੀ ਭਰੋ।"
+      },
+      {
+        "en": "Submit and download your e-Shram card.",
+        "gu": "સબમિટ કરો અને ઈ-શ્રમ કાર્ડ ડાઉનલોડ કરો.",
+        "hi": "सबमिट करें और अपना ई-श्रम कार्ड डाउनलोड करें।",
+        "pa": "ਸਬਮਿਟ ਕਰੋ ਅਤੇ ਆਪਣਾ ਈ-ਸ਼੍ਰਮ ਕਾਰਡ ਡਾਊਨਲੋਡ ਕਰੋ।"
+      }
+    ],
+    "where": {
+      "en": "Online or at a CSC",
+      "gu": "ઓનલાઇન અથવા CSC પર",
+      "hi": "ऑनलाइन या CSC पर",
+      "pa": "ਆਨਲਾਈਨ ਜਾਂ CSC 'ਤੇ"
+    },
+    "applyUrl": "https://eshram.gov.in",
+    "helpline": "14434",
+    "source": "https://www.myscheme.gov.in/schemes/e-shram",
+    "lastVerified": ""
+  },
+  {
+    "id": "pmuy",
+    "name": {
+      "en": "PM Ujjwala Yojana",
+      "gu": "પ્રધાનમંત્રી ઉજ્જવલા યોજના",
+      "hi": "प्रधानमंत्री उज्ज्वला योजना",
+      "pa": "ਪ੍ਰਧਾਨ ਮੰਤਰੀ ਉੱਜਵਲਾ ਯੋਜਨਾ"
+    },
+    "benefit": {
+      "en": "Free LPG gas connection for women from poor families",
+      "gu": "ગરીબ પરિવારની મહિલાઓ માટે મફત LPG ગેસ કનેક્શન",
+      "hi": "गरीब परिवारों की महिलाओं के लिए मुफ़्त LPG गैस कनेक्शन",
+      "pa": "ਗਰੀਬ ਪਰਿਵਾਰਾਂ ਦੀਆਂ ਔਰਤਾਂ ਲਈ ਮੁਫ਼ਤ LPG ਗੈਸ ਕੁਨੈਕਸ਼ਨ"
+    },
+    "eligibility": {
+      "gender": "female",
+      "minAge": 18,
+      "maxIncome": 100000,
+      "noLPG": true
+    },
+    "note": {
+      "en": "The household must not already have an LPG connection.",
+      "gu": "પરિવાર પાસે પહેલેથી LPG કનેક્શન ન હોવું જોઈએ.",
+      "hi": "परिवार के पास पहले से LPG कनेक्शन नहीं होना चाहिए।",
+      "pa": "ਪਰਿਵਾਰ ਕੋਲ ਪਹਿਲਾਂ ਤੋਂ LPG ਕੁਨੈਕਸ਼ਨ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ।"
+    },
+    "documents": [
+      {
+        "en": "Aadhaar card",
+        "gu": "આધાર કાર્ડ",
+        "hi": "आधार कार्ड",
+        "pa": "ਆਧਾਰ ਕਾਰਡ"
+      },
+      {
+        "en": "Ration card or BPL proof",
+        "gu": "રેશન કાર્ડ અથવા BPL પુરાવો",
+        "hi": "राशन कार्ड या BPL प्रमाण",
+        "pa": "ਰਾਸ਼ਨ ਕਾਰਡ ਜਾਂ BPL ਸਬੂਤ"
+      },
+      {
+        "en": "Bank account details",
+        "gu": "બેંક ખાતાની વિગતો",
+        "hi": "बैंक खाते की जानकारी",
+        "pa": "ਬੈਂਕ ਖਾਤੇ ਦੀ ਜਾਣਕਾਰੀ"
+      },
+      {
+        "en": "Passport size photo",
+        "gu": "પાસપોર્ટ સાઇઝ ફોટો",
+        "hi": "पासपोर्ट साइज़ फोटो",
+        "pa": "ਪਾਸਪੋਰਟ ਸਾਈਜ਼ ਫੋਟੋ"
+      }
+    ],
+    "steps": [
+      {
+        "en": "Get the KYC form from pmuy.gov.in or your nearest LPG distributor.",
+        "gu": "pmuy.gov.in પરથી અથવા નજીકના LPG ડિસ્ટ્રિબ્યુટર પાસેથી KYC ફોર્મ મેળવો.",
+        "hi": "pmuy.gov.in से या नज़दीकी LPG डिस्ट्रीब्यूटर से KYC फ़ॉर्म लें।",
+        "pa": "pmuy.gov.in ਤੋਂ ਜਾਂ ਨੇੜਲੇ LPG ਡਿਸਟ੍ਰੀਬਿਊਟਰ ਤੋਂ KYC ਫ਼ਾਰਮ ਲਓ।"
+      },
+      {
+        "en": "Fill the form and attach your documents.",
+        "gu": "ફોર્મ ભરો અને દસ્તાવેજો જોડો.",
+        "hi": "फ़ॉर्म भरें और दस्तावेज़ संलग्न करें।",
+        "pa": "ਫ਼ਾਰਮ ਭਰੋ ਅਤੇ ਦਸਤਾਵੇਜ਼ ਨੱਥੀ ਕਰੋ।"
+      },
+      {
+        "en": "Submit it at the LPG distributor.",
+        "gu": "LPG ડિસ્ટ્રિબ્યુટર પાસે જમા કરાવો.",
+        "hi": "LPG डिस्ट्रीब्यूटर के पास जमा करें।",
+        "pa": "LPG ਡਿਸਟ੍ਰੀਬਿਊਟਰ ਕੋਲ ਜਮ੍ਹਾਂ ਕਰਵਾਓ।"
+      },
+      {
+        "en": "After verification you get your connection.",
+        "gu": "ચકાસણી પછી તમને કનેક્શન મળશે.",
+        "hi": "सत्यापन के बाद आपको कनेक्शन मिलेगा।",
+        "pa": "ਪੁਸ਼ਟੀ ਤੋਂ ਬਾਅਦ ਤੁਹਾਨੂੰ ਕੁਨੈਕਸ਼ਨ ਮਿਲੇਗਾ।"
+      }
+    ],
+    "where": {
+      "en": "Nearest LPG distributor",
+      "gu": "નજીકના LPG ડિસ્ટ્રિબ્યુટર",
+      "hi": "नज़दीकी LPG डिस्ट्रीब्यूटर",
+      "pa": "ਨੇੜਲਾ LPG ਡਿਸਟ੍ਰੀਬਿਊਟਰ"
+    },
+    "applyUrl": "https://pmuy.gov.in",
+    "helpline": "1906",
+    "source": "https://www.myscheme.gov.in/schemes/pmuy",
+    "lastVerified": ""
+  }
+]
+
+  
